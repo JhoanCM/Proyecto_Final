@@ -1,7 +1,7 @@
 # Proyecto_Final
 Created with CodeSandbox
 
-Proyecto icomerce de venta de accesorios de vehiculos
+Proyecto ecommerce de venta de accesorios de vehiculos
 
 Nombre del negocio: Acceautos
 
